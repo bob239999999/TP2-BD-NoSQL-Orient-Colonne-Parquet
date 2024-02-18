@@ -1,3 +1,8 @@
+
+Polytech Annecy-Chambéry - Université Savoie Mont Blanc
+
+Britel Mohammed Yassine 
+
 Import des Bibliothèques
 import pandas as pd
 import pyarrow as pa
@@ -29,3 +34,5 @@ Visualization:
     Matplotlib is used for data visualization, particularly for plotting histograms.
 Error Handling:
     There are try-except blocks used for error handling, particularly in functions where DataFrame operations are performed.
+
+https://github.com/bob239999999/TP2-BD-NoSQL-Orient-Colonne-Parquet.git
